@@ -1,5 +1,0 @@
-{
-    "scm.repositories.sortOrder": "path",
-    "git.autofetch": true,
-    "gitlens.views.repositories.includeWorkingTree": true
-}
